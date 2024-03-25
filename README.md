@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Creative Software or 3D Printing related projects
 - 📫 How to reach me: tamas.salat2004@gmail.com
 - ⚡ Fun fact: I also play the gutiar (and know C/C++)
-- whitespac3.vercel.app
+- https://whitespac3.vercel.app
 
 <!---
 Salat-Tamas/Salat-Tamas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
